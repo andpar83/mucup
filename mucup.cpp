@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include <string>
+#include <QString>
 #include <libpsd/include/libpsd.h>
 #include "active_button.h"
 #include "mucup.h"

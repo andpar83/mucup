@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include <algorithm>
 #include <iterator>
+#include <QMessageBox>
 #include "layer_image.h"
 
 namespace psv

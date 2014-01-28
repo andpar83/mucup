@@ -109,8 +109,8 @@ void shadowed_window::mousePressEvent(QMouseEvent* e)
 
 void shadowed_window::bring_next_window(const QPoint& p)
 {
-	auto next = GetWindow(window()->winId(), GW_HWNDNEXT);
-	while (next && next != window()->winId())
+	auto next = GetWindow(reinterpret_cast<HWND>(window()->winId()), GW_HWNDNEXT);
+	while (next && next != reinterpret_cast<HWND>(window()->winId()))
 	{
 		DWORD process = 0;
 		GetWindowThreadProcessId(next, &process);

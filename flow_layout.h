@@ -3,6 +3,7 @@
 #include <QRect>
 #include <QList>
 #include <QWidgetItem>
+#include <QStyle>
 
 namespace psv
 {
