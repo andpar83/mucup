@@ -1,0 +1,26 @@
+<RCC>
+  <qresource>
+    <file>images/icon.ico</file>
+    <file>images/logo.png</file>
+    <file>images/minimize-active.png</file>
+    <file>images/minimize-hover.png</file>
+    <file>images/minimize-normal.png</file>
+    <file>images/maximize-active.png</file>
+    <file>images/maximize-hover.png</file>
+    <file>images/maximize-normal.png</file>
+    <file>images/show-normal-active.png</file>
+    <file>images/show-normal-hover.png</file>
+    <file>images/show-normal-normal.png</file>
+    <file>images/close-active.png</file>
+    <file>images/close-hover.png</file>
+    <file>images/close-normal.png</file>
+    <file>images/shadow-bottom.png</file>
+    <file>images/shadow-bottom-left.png</file>
+    <file>images/shadow-bottom-right.png</file>
+    <file>images/shadow-left.png</file>
+    <file>images/shadow-right.png</file>
+    <file>images/shadow-top.png</file>
+    <file>images/shadow-top-left.png</file>
+    <file>images/shadow-top-right.png</file>    
+  </qresource>
+</RCC>
